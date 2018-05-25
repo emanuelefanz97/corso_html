@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto',Arial, Helvetica, sans-serif
+}
+img{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+/*
+header,footer{
+
+    border: 1px black solid;
+    text-align: center;
+    height: 100px;
+    color: blue;
+    font-size: 2em;
+}
+#giaggio{
+border: 2px dotted green; 
+}
+#cioni{
+    width: 100%;
+}
+.claudio{
+    border: 1px solid gray;
+
+}
+
+.titolo{
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    /* google fonts */
+
+/*
+
+
